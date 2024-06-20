@@ -19,6 +19,14 @@ Facial recognition technique is used extensively in areas like online payments, 
 - Replace the file name of the face recognition model in the project code.
 - Start the ammeter and turn on the power monitoring function.
 
+## Experimental environment
+![Experimental environment](/fig/device.PNG)
+
+
+## Experimental results
+![Real experiment result](/fig/real_experiment_result.png)
+
+
 ## Project structure
 - [algs](algs): this folder contains the core algorithm files for the research papers.
   - [main](algs/main.py): this file mainly consists of the implementation of our proposed "Ours" algorithm and three other algorithms mentioned in the paper.
